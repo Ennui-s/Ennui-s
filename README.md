@@ -21,6 +21,7 @@
 <p align="center">
 
 ⌨️ code　🎧 music　🌙 late nights　🍜 snacks　📺 anime　🐈 cats
+<p align="center"> <img src="./assets/gif4.gif" width="300"> </p>
 
 </p>
 
@@ -38,6 +39,7 @@ I will probably do that.
 📊 stats
 
 <p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ennui-s&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=c084fc&icon_color=f472b6&text_color=c4b5fd" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ennui-s&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=c084fc&text_color=c4b5fd" /> </p>
+<p align="center"> <img src="./assets/gif5.gif" width="300"> </p>
 
 🎀 some things i've made
 

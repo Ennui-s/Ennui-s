@@ -4,26 +4,22 @@
 
 🐾 about_me.exe
 
-╭────────────────────────────────────────╮
-│ > loading profile...                   │
-│                                        │
-│ ✦ human                               │
-│ ✦ software enjoyer                    │
-│ ✦ professional overthinker            │
-│ ✦ collector of side projects          │
-│ ✦ powered by caffeine & curiosity     │
-│                                        │
-│ status: [ █████████░ ] mostly alive    │
-╰────────────────────────────────────────╯
+<pre>
+  ╭────────────────────────────────────────╮
+  │ > loading profile...                   │
+  │                                        │
+  │ ✦ human                               │
+  │ ✦ software enjoyer                    │
+  │ ✦ professional overthinker            │
+  │ ✦ collector of side projects          │
+  │ ✦ powered by caffeine & curiosity     │
+  │                                        │
+  │ status: [ █████████░ ] mostly alive    │
+  ╰────────────────────────────────────────╯ </pre>
 
 🌸 currently vibing with
 
-<p align="center">
-
-⌨️ code　🎧 music　🌙 late nights　🍜 snacks　📺 anime　🐈 cats
-<p align="center"> <img src="./assets/gif4.gif" width="300"> </p>
-
-</p>
+<p align="center"> ⌨️ code　🎧 music　🌙 late nights　🍜 snacks　📺 anime　🐈 cats </p> <p align="center"> <img src="./assets/gif4.gif" width="300"> </p>
 
 My philosophy:
 
@@ -38,24 +34,23 @@ I will probably do that.
 
 📊 stats
 
-<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ennui-s&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=c084fc&icon_color=f472b6&text_color=c4b5fd" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ennui-s&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=c084fc&text_color=c4b5fd" /> </p>
-<p align="center"> <img src="./assets/gif5.gif" width="300"> </p>
+<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ennui-s&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=c084fc&icon_color=f472b6&text_color=c4b5fd" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ennui-s&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=c084fc&text_color=c4b5fd" /> </p> <p align="center"> <img src="./assets/gif5.gif" width="300"> </p>
 
 🎀 some things i've made
 
-╭──────────────────────────────────────────╮
-│                                          │
-│ 🌱 tiny projects                        │
-│ ✦ questionable experiments              │
-│ ✦ tools I wished existed                │
-│ ✦ things built at unreasonable          │
-│ hours of the night                       │
-│                                          │
-╰──────────────────────────────────────────╯
+<pre>
+  ╭──────────────────────────────────────────╮
+  │                                          │
+  │ 🌱 tiny projects                         │
+  │ ✦ questionable experiments               │
+  │ ✦ tools I wished existed                 │
+  │ ✦ things built at unreasonable           │
+  │    hours of the night                    │
+  │                                          │
+  ╰──────────────────────────────────────────╯ </pre>
 
 Check out my repositories — there is probably something broken in there.
 
 🌙 the end
 
-<p align="center"> <i>Thanks for stopping by ♡</i> <br><br> <code>~ 404 motivation not found ~</code> <br><br> ₍^. .^₎⟆ </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" /> </p>
-<p align="center"> <img src="./assets/gif3.gif" width="400"> </p>
+<p align="center"> <i>Thanks for stopping by ♡</i> <br><br> <code>~ 404 motivation not found ~</code> <br><br> ₍^. .^₎⟆ </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" /> </p> <p align="center"> <img src="./assets/gif3.gif" width="400"> </p>

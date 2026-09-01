@@ -1,0 +1,59 @@
+name: Update HackerRank Stats
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs daily at midnight
+  workflow_dispatch: # Allows manual trigger
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-args: '3.x'
+
+      - name: Install Scraping Tools
+        run: pip install requests beautifulsoup4
+
+      - name: Fetch and Update Stats
+        run: |
+          python - c "
+          import requests
+          from bs4 import BeautifulSoup
+          import re
+
+          username = 'jwshimin' 
+          url = f'https://hackerrank.com{username}/scores'
+          
+          # Add headers to avoid bot blocks
+          headers = {'User-Agent': 'Mozilla/5.0'}
+          res = requests.get(url, headers=headers).json()
+
+          stats_text = '### 💻 HackerRank Badges & Scores\n'
+          for item in res:
+              stats_text += f'- **{item[\"practice_name\"] or item[\"track_name\"]}:** {item[\"score\"]} pts\n'
+
+          with open('README.md', 'r') as f:
+              content = f.read()
+
+          pattern = r'<!-- HACKERRANK_STATS_START -->.*?<!-- HACKERRANK_STATS_END -->'
+          replacement = f'<!-- HACKERRANK_STATS_START -->\n{stats_text}<!-- HACKERRANK_STATS_END -->'
+          new_content = re.sub(pattern, replacement, content, flags=re.DOTALL)
+
+          with open('README.md', 'w') as f:
+              f.write(new_content)
+          "
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@://github.com"
+          git add README.md
+          git diff-index --quiet HEAD || (git commit -m "docs: update HackerRank stats" && git push)

@@ -25,7 +25,7 @@
 <!-- HACKERRANK_STATS_END -->
 
 
-🌸 currently vibing with
+## 🌸 currently vibing with
 
 <p align="center"> ⌨️ code　🎧 music　🌙 late nights　🍜 snacks　📺 anime　🐈 cats </p> <p align="center"> <img src="./assets/gif4.gif" width="800"> </p>
 

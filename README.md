@@ -1,6 +1,6 @@
 ₍^. .^₎⟆ Go small or don't go home
 
-<p align="center"> <img src="./assets/gif1.gif" width="1000"> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=nyaan~%20welcome%20to%20my%20repo&fontSize=38&fontColor=ffffff&animation=twinkling&fontAlignY=35" /> </p> <p align="center"> <i>「 building tiny things with unnecessarily large amounts of love 」</i> </p> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=900&color=C084FC&center=true&vCenter=true&width=600&lines=こんにちは+%F0%9F%91%8B;code+%E2%86%92+break+%E2%86%92+fix+%E2%86%92+repeat;probably+debugging+at+3am;shipping+small+things+%E2%9C%A8" /> </p>
+<p align="center"> <img src="./assets/gif1.gif" width="1000"> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=NYAHALLOO~%20welcome%20to%20my%20repo&fontSize=38&fontColor=ffffff&animation=twinkling&fontAlignY=35" /> </p> <p align="center"> <i>「 building tiny things with unnecessarily large amounts of love 」</i> </p> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=900&color=C084FC&center=true&vCenter=true&width=600&lines=こんにちは+%F0%9F%91%8B;code+%E2%86%92+break+%E2%86%92+fix+%E2%86%92+repeat;probably+debugging+at+3am;shipping+small+things+%E2%9C%A8" /> </p>
 
 🐾 about_me.exe
 

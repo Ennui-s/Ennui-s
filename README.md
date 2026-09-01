@@ -18,8 +18,9 @@
   ╰────────────────────────────────────────╯ </pre>
 
 ## 🏆 HackerRank Stats
-
-[![HackerRank Stats](https://github-readme-hackerrank.vercel.app/api?username=jwshimin)](https://www.hackerrank.com/jwshimin)
+<a href="https://www.hackerrank.com/jwshimin">
+  <img src="./hackerrank-stats.svg" alt="HackerRank Stats" />
+</a>
 <!-- HACKERRANK_STATS_START -->
 <!-- HACKERRANK_STATS_END -->
 

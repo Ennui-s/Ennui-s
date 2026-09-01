@@ -17,7 +17,9 @@
   │ status: [ █████████░ ] mostly alive    │
   ╰────────────────────────────────────────╯ </pre>
 
+## 🏆 HackerRank Stats
 
+[![HackerRank Stats](https://github-readme-hackerrank.vercel.app/api?username=jwshimin)](https://www.hackerrank.com/jwshimin)
 <!-- HACKERRANK_STATS_START -->
 <!-- HACKERRANK_STATS_END -->
 

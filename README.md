@@ -61,4 +61,4 @@ Check out my repositories — there is probably something broken in there.
 
 🌙 the end
 
-<p align="center"> <i>Thanks for stopping by ♡</i> <br><br> <code>~ 404 motivation not found ~</code> <br><br> ₍^. .^₎⟆ </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" /> </p> <p align="center"> <img src="./assets/gif3.gif" width="400"> </p>
+<p align="center"> <i>Thanks for stopping by ♡</i> <br><br> <code>~ 404 motivation not found ~</code> <br><br> ₍^. .^₎⟆ </p> <p align="center"> <img src="./assets/gif3.gif" width="400"> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" /> </p>

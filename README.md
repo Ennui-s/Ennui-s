@@ -55,9 +55,71 @@ I will probably do that.
   │ ✦ things built at unreasonable           │
   │    hours of the night                    │
   │                                          │
-  ╰──────────────────────────────────────────╯ </pre>
+  ╰──────────────────────────────────────────╯
 
-Check out my repositories — there is probably something broken in there.
+SmartFire Wild (AI/ML, CV)
+
+An environmental monitoring system that combines forest sensor data with computer vision to
+identify conditions associated with wildfire risk and raise alerts, reducing reliance on
+continuously running expensive, low-latency video recognition.
+
+  
+MangaMoon(In-Progress) (AI/ML, CV, API, LLM, Agentic)
+
+A Japanese manga translation pipeline that identifies text regions and in-image hiragana/katakana,
+extracts and interprets the content, then translates it into English while accounting for context,
+character personality, situation and tone rather than performing literal translation alone.
+
+  
+Financial Multimodal AI Agent (AI, CV, API, LLM, Agentic, Decision)
+
+A multimodal financial assistant that uses vision-language models such as Claude, Gemini and
+ChatGPT to interpret handwritten bank-statement images, structure the extracted financial
+information into JSON, and use the resulting data to assess affordability and provide plan/delay
+recommendations with explanations.
+
+  
+Plant Disease Classification (AI/ML, CV, CNN)
+
+A transfer-learning image-classification system trained on a custom 224×224 plant-image dataset,
+using checkpointing and early stopping to identify plant diseases; the model achieved 95.18% test
+accuracy, with confusion matrices and Grad-CAM used to evaluate its predictions and visual
+attention.
+
+  
+Smart LMS Dashboard (AI/ML, Playwright, RNN, Decision)
+
+A learning-management dashboard that combines a lecturer-facing interface with an AI model
+designed to identify students who may be struggling, allowing their performance to be surfaced
+through the system rather than relying solely on manual monitoring.
+
+  
+NeoPack (In-Progress, Non-Tech)
+
+A modular ergonomic bag concept designed around interchangeable attachments and compartments,
+including dedicated storage for sports equipment and washable/transparent sections, with an
+emphasis on making one base bag adaptable to different activities without sacrificing everyday
+usability. AI modules for bag is in development!
+
+  
+SmellsAtWork (Non-Tech)
+
+A research project conducted with SUTD/Lee Kuan Yew Centre.
+
+  
+Unnamed Project 1 (AI/ML)
+A project dedicated to smell recognition by machines using data from sensors and e-noses to
+identify smells normally labelled carcinogenic or corrosive to perfumers and applicationists,
+and also to be installed with smoke detectors to identify gas leakages.
+
+  
+Gekko (Non-Tech)
+
+A personal project exploring the development of a replacement for living skin tissue for
+cosmetic testing and for commercial use for testers in cosmetics shops.</pre>
+
+
+Check out my non-private repositories — there is probably something broken in there.
 
 🌙 the end
 

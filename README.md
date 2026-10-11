@@ -39,6 +39,9 @@ I have worked on projects involving **computer vision, multimodal AI, sensor-bas
 
 ### 🚀 Selected Projects
 
+#### Strongest Project: 👑 ML Mini-Platform (Encases Plant Disease Classification)
+
+
 #### 🔥 SmartFire Wild
 An environmental monitoring system combining **sensor data and computer vision** to identify wildfire-risk conditions and raise alerts, with the goal of reducing reliance on continuously running expensive low-latency video recognition.
 

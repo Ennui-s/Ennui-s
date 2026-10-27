@@ -10,7 +10,7 @@
 
 I'm **Jerome**, a Singapore-based software and AI/ML developer who has recently completed a **Bachelor of Information Technology, double majoring in Artificial Intelligence & Autonomous Systems and Computer Science** at Murdoch University.
 
-My main interest is at the intersection of **AI/ML and software engineering** — building systems where machine learning is part of a useful application rather than an isolated model.
+My main interest is at the intersection of **AI/ML and software engineering**; building systems where machine learning is part of a useful application rather than an isolated model.
 
 I have worked on projects involving **computer vision, multimodal AI, sensor-based systems, machine learning, backend development, and application development**, and I'm continuing to expand my software engineering and production-ML skill set.
 
@@ -138,7 +138,7 @@ If you're a recruiter or hiring manager, feel free to explore the projects below
 
 My philosophy:
 
-If it can be made smaller, cuter, faster, or more unnecessarily complicated —
+If it can be made smaller, cuter, faster, or more unnecessarily complicated --
 I will probably do that.
 
 <p align="center"> <img src="./assets/gif2.gif" width="400"> </p>
